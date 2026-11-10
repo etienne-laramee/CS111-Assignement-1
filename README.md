@@ -80,3 +80,9 @@ printf("Index of 15: %d\n", searchByValue(myNodeList, 15));
 inputFromFile(&myNodeList, "example.txt");
 outputToFile(myNodeList, "output.txt");
 ```
+
+## AI use disclosure
+
+- ChatGPT has been used for bouncing ideas during the building of the solution.
+- It has also been used to provide feedback and suggestions on things to improve in the code.
+- Finally it has been used to help write some of the readme documentation as well as some boilerplate for the main function's menu.
