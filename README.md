@@ -34,7 +34,22 @@ Run the program in Windows PowerShell:
 .\main.exe
 ```
 
-The program provides an interactive menu to perform the various linked-list operations.
+### The program provides an interactive menu to perform the various linked-list operations.
+
+```powershell
+===== Linked List Manager =====
+1. Push value
+2. Pop value
+3. Remove last value
+4. Remove by index
+5. Remove by value
+6. Search by value
+7. Print list
+8. Import from file
+9. Export to file
+0. Exit
+Choice: 
+```
 
 ## Example Usage
 
