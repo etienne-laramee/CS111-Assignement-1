@@ -19,7 +19,6 @@ Each node contains a positive integer value and a pointer to the next node, if a
 - **Search:** Find a value and return its index.
 - **Print:** Display all values in the list.
 - **File I/O:** Import and export list values using text files.
-- **Memory management:** Dynamically allocate and free nodes.
 
 ## Instructions (Windows)
 
